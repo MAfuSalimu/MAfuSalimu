@@ -1,2 +1,2 @@
-- ✨ Hi, I’m Salim
-// Still Learning tho
+- ✨ Hi, I’m Salim 
+- I'm Still Learning tho
